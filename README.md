@@ -7,4 +7,4 @@ In my free time, you can find me:
 - Cooking with my roommates🍴
 - Checking out local breweries🍻
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/megan-hussey/)! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/megan-hussey/)
