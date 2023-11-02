@@ -16,4 +16,5 @@ In my free time, you can find me:
 - Checking out local breweries🍻
 
 Download my resume here: [MHussey_ResumeV2.pdf](https://github.com/megan0422/megan0422/files/13243517/MHussey_ResumeV2.pdf)
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/megan-hussey/)
