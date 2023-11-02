@@ -21,6 +21,7 @@ In my free time, you can find me:
 - In a cycling class🚴‍♂️
 - Trying out NYT Cooking recipes🍴
 - Checking out local breweries🍻
+- Embracing the harsh winter in my hometown of Minneapolis, MN❄️
 
 Download my resume here: [MHussey_ResumeV2.pdf](https://github.com/megan0422/megan0422/files/13243517/MHussey_ResumeV2.pdf) <br />
 Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-hussey/)
