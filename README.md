@@ -14,7 +14,7 @@ Below are some highlights of research and data science projects I have worked:
   
 - Investigating the correlation between [urban heat and impoverished neighborhoods](https://arcg.is/1fCW1K0) in Allegheny County utilzing ArcGIS network analyses.
 - Building an interactive map of [New York City shootings](https://mehussey.shinyapps.io/FinalProject/) from 2019-2021 on R Shiny.
-- Modeling the correlation between [poor bridge conditions and income level/racial demographics in Pittsburgh city](https://github.com/megan0422/DABPFinalProject) and then optimizing government funding to areas with the poorest bridge conditions. This project was inspired by the [Fern Hollow Bridge collapse] (https://www.cbsnews.com/pittsburgh/news/pittsburgh-bridge-collapse-fern-hollow-one-year-later-infrastructure-bridges-president-biden/) in 2022 with the hopes of raising greater awareness to the most pressing infrustructure funding needs.
+- Modeling the correlation between [poor bridge conditions and income level/racial demographics in Pittsburgh city](https://github.com/megan0422/DABPFinalProject) and then optimizing government funding to areas with the poorest bridge conditions. This project was inspired by the [Fern Hollow Bridge collapse](https://www.cbsnews.com/pittsburgh/news/pittsburgh-bridge-collapse-fern-hollow-one-year-later-infrastructure-bridges-president-biden/) in 2022 with the hopes of raising greater awareness to the most pressing infrustructure funding needs.
 
 
 In my free time, you can find me:
