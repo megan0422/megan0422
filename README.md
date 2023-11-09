@@ -8,10 +8,7 @@ Following my graduation from CMU, I'm pursuing opportunities where I can use my 
 
 Below are some highlights of research and data science projects I have worked: 
 - Helping design original [social psychology research](https://wp.stolaf.edu/news/researchers-examine-the-benefits-of-discussing-discrimination) in undergrad that explored the underlying effects of emotional disclosure on meaning-making and coping following an experience of discrimination. 
-- Increasing digital equity in Detroit, Michigan with Connect313. Connect313 is a citywide, mulitstakeholder initiative to help bridge the digital divide in Detroit and have all residents have access to a device, IT support, and broadband by 2024. Below is a screenshot of the internal dashboard I spent the summer updating with American Community Survey data:
-
-  ![connect313dash](https://github.com/megan0422/megan0422/assets/98300623/1f25f908-ab16-43b8-9e72-68f4d8d7793b)
-  
+- Increasing digital equity in Detroit, Michigan with Connect313. Connect313 is a citywide, mulitstakeholder initiative to help bridge the digital divide in Detroit and have all residents have access to a device, IT support, and broadband by 2024. 
 - Investigating the correlation between [urban heat and impoverished neighborhoods](https://arcg.is/1fCW1K0) in Allegheny County utilzing ArcGIS network analyses.
 - Building an interactive map of [New York City shootings](https://mehussey.shinyapps.io/FinalProject/) from 2019-2021 on R Shiny.
 - Modeling the correlation between [poor bridge conditions and income level/racial demographics in Pittsburgh city](https://github.com/megan0422/DABPFinalProject) and then optimizing government funding to areas with the poorest bridge conditions. This project was inspired by the [Fern Hollow Bridge collapse](https://www.cbsnews.com/pittsburgh/news/pittsburgh-bridge-collapse-fern-hollow-one-year-later-infrastructure-bridges-president-biden/) in 2022 with the hopes of raising greater awareness to the most pressing infrustructure funding needs.
