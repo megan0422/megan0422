@@ -1,6 +1,6 @@
 ### ✨Thanks for visiting my page!✨
 
-My name is Megan and I recently received a master's degree from Carnegie Mellon University in public policy and data analytics. My interest in the intersection of public policy and data began during my undergraduate research in social psychology. I found that academia often missed the broader meaning beyond the lab and data results. I was inspired to bridge the profound gap between research and policy, and became an AmeriCorps VISTA immediately following my college graduation.
+My name is Megan and I hold a master's degree from Carnegie Mellon University in public policy and data analytics. My interest in the intersection of public policy and data began during my undergraduate research in social psychology. I found that academia often missed the broader meaning beyond the lab and data results. I was inspired to bridge the profound gap between research and policy, and became an AmeriCorps VISTA immediately following my college graduation.
 
 I worked at [WomenVenture](https://www.womenventure.org/about/) as the Research and Technology Specialist. I helped women of all backgrounds become economically self-sufficient by empowering them to start small businesses. One of my biggest responsibilities was helping the leadership team understand the impact our services were having in the community. I redesigned and implemented WomenVenture's annual client survey and synthesized survey data to recommend program improvements to leadership. 
 
