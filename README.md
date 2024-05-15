@@ -1,10 +1,6 @@
 ### ✨Thanks for visiting my page!✨
 
-My name is Megan and I hold a master's degree from Carnegie Mellon University in public policy and data analytics. My interest in the intersection of public policy and data began during my undergraduate research in social psychology. I found that academia often missed the broader meaning beyond the lab and data results. I was inspired to bridge the profound gap between research and policy, and became an AmeriCorps VISTA immediately following my college graduation.
-
-I worked at [WomenVenture](https://www.womenventure.org/about/) as the Research and Technology Specialist. I helped women of all backgrounds become economically self-sufficient by empowering them to start small businesses. One of my biggest responsibilities was helping the leadership team understand the impact our services were having in the community. I redesigned and implemented WomenVenture's annual client survey and synthesized survey data to recommend program improvements to leadership. 
-
-Following my graduation from CMU, I'm pursuing opportunities where I can use my research and data skills for social good and dive into the world of civic technology. I have experience utilizing research and data science tools to inform and shape impactful public policy decisions. I most recently worked as a data science consultant building a computer vision model to help aid law enforcement agencies in the U.K locate victims of human trafficking.
+My name is Megan and I hold a master's degree from Carnegie Mellon University in public policy and data analytics. I'm pursuing opportunities where I can use my research and data skills for social good and dive into the world of civic technology. I have experience utilizing research and data science tools to inform and shape impactful public policy decisions. I most recently worked as a data science consultant building a computer vision model to help aid law enforcement agencies in the U.K locate victims of human trafficking.
 
 Below are some highlights of research and data science projects I have worked: 
 - Helping design original [social psychology research](https://wp.stolaf.edu/news/researchers-examine-the-benefits-of-discussing-discrimination) in undergrad that explored the underlying effects of emotional disclosure on meaning-making and coping following an experience of discrimination. 
@@ -12,7 +8,6 @@ Below are some highlights of research and data science projects I have worked:
 - Investigating the correlation between [urban heat and impoverished neighborhoods](https://arcg.is/1fCW1K0) in Allegheny County utilzing ArcGIS network analyses.
 - Building an interactive map of [New York City shootings](https://mehussey.shinyapps.io/FinalProject/) from 2019-2021 on R Shiny.
 - Modeling the correlation between [poor bridge conditions and income level/racial demographics in Pittsburgh city](https://github.com/megan0422/DABPFinalProject) and then optimizing government funding to areas with the poorest bridge conditions. This project was inspired by the [Fern Hollow Bridge collapse](https://www.cbsnews.com/pittsburgh/news/pittsburgh-bridge-collapse-fern-hollow-one-year-later-infrastructure-bridges-president-biden/) in 2022 with the hopes of raising greater awareness to the most pressing infrustructure funding needs.
-
 
 In my free time, you can find me:
 - In a cycling class🚴‍♂️
