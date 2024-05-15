@@ -2,7 +2,7 @@
 
 My name is Megan and I hold a master's degree from Carnegie Mellon University in public policy and data analytics. I'm pursuing opportunities where I can use my research and data skills for social good and dive into the world of civic technology. I have experience utilizing research and data science tools to inform and shape impactful public policy decisions. I most recently worked as a data science consultant building a computer vision model to help aid law enforcement agencies in the U.K locate victims of human trafficking.
 
-Below are some highlights of research and data science projects I have worked: 
+Below are some highlights of research and data projects I have worked: 
 - Helping design original [social psychology research](https://wp.stolaf.edu/news/researchers-examine-the-benefits-of-discussing-discrimination) in undergrad that explored the underlying effects of emotional disclosure on meaning-making and coping following an experience of discrimination. 
 - Increasing digital equity in Detroit, Michigan with Connect313. Connect313 is a citywide, mulitstakeholder initiative to help bridge the digital divide in Detroit and have all residents have access to a device, IT support, and broadband by 2024. 
 - Investigating the correlation between [urban heat and impoverished neighborhoods](https://arcg.is/1fCW1K0) in Allegheny County utilzing ArcGIS network analyses.
